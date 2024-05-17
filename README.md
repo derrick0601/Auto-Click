@@ -54,3 +54,8 @@ if __name__ == '__main__':
 ## Auto Click.exe
 This is I create programm useing the Auto Click.py.
 
+#### How to use this application
+```
+> Press the 【~】 to activate the program
+> Click 【SPACE】 , and the space will be automatically pressed 100 times in a row
+```
